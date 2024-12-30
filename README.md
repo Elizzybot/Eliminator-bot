@@ -23,11 +23,11 @@
 ## ELIMINATOR BOT Deployment Methods
 ---
 1.  **Fork Repo First, [`CLICK HERE`](https://github.com/Elizzybot/ELIMINATOR-BOT.git) (A MUST) and `Star ⭐ Repository` for Courage.**
-2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/pair) 
+2.  **Get `SESSION ID` BY [`PAIRING CODE`](https://replit.com/@elijah71/Eliminator-bot-session-id) 
  OR BY [`SCANNING QR CODE`](https://gojousession-05ea27b8ff9a.herokuapp.com/wasiqr)** 
 3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/DeeCeeXxx/Gojou-MD)**
-8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z) for more**
-9. **All Tutorials Are `COMING SOON`**
+8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029VaZsyQ21XqudOTjyG30Z) for m**h(https://replit.com/@elijah71/Eliminator-bot-session-id)
+11. **All Tutorials Are `COMING SOON`**
 
 <a><img src='https://i.imgur.com/nIfbueu.jpeg'/></a><a><img src='https://i.imgur.com/nIfbueu.jpeg'/></a>
 
