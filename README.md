@@ -1,7 +1,7 @@
   # eliminator bot
    <a><img src='https://i.imgur.com/nIfbueu.jpeg'/></a><a><img src='https://i.imgur.com/nIfbueu.jpeg'/></a>
 <p align="center"> 
-<u>⚡ A simple WhatsApp User Bot Coded By David Cyril ⚡</u>
+<u>⚡ A simple WhatsApp User Bot eliminator tech ⚡</u>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/nIfbueu.jpeg"/>       
